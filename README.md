@@ -1,2 +1,2 @@
-# log-archive-tool
-tool to archive logs on a set schedule by compressing them and storing them in a new directory
+# How to run the tool
+After the complete the project run "log-archive" in CLI
